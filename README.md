@@ -20,11 +20,14 @@ Let's recheck the datatypes to see if it works and then export to a file with a 
 ![TWperH](images/TWperH.PNG)   
 The morning commute of bikeshare riders can see as many as 8000 - 30,000 users between the hours of 6-8am on weekdays! Talk about getting a move on!!
 
-![UTbGbW](images/UTbGbW.PNG)
+![genderweek](images/genderweek.PNG)
 This image breaks down which group might be more likely to rent (customer or subscriber) and then the corresponding gender detail.
 
 ![CTbU](images/CTbU.PNG)
 Checkout times by user, Cait explains, is a fascinating variable to dive into.  This graph shows very clearly, that most users rent a bike for short jaunts.  Less than one hour rentals are the top usage data point, it's very clear to see that for both men and women renters.  And there is SO much we could do with that data.  Should we charge more for the first 30 minutes?  Should it be on a sliding scale after that?  Very interesting data.
+
+![times](images/times.PNG)
+Even more incredible, Cait points out, to the investors is how malleable this data set is and how everything is not always as it seems.  Because SO MANY users rent for less than one hour, it appears to make the next hours flat line.  But if you remove that zero to sixty minutes-- WHOA!  A whole different set of data appears for their review.  You're able to see that men and women renters are more closely matched than we originally thought. How will that play into our marketing?
 
 ![starts](images/starts.PNG)
 ![exits](images/exits.PNG)
